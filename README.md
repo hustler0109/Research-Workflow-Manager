@@ -1,4 +1,4 @@
-# Research Workflow Manager
+# Research Workflow Manager | Full-Stack Analytics Platform
 
 ## 🚀 Project Summary
 
