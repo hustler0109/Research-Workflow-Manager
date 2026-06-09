@@ -129,23 +129,3 @@ Tagging & categories
 Shristy Joshi Thakur
 
 Focused on building data-driven productivity tools, analytical dashboards, and user-friendly workflows.
-
-📌 Notes
-This project demonstrates:
-
-Full-stack architecture
-
-Data visualization and analytics logic
-
-Workflow prioritization and status tracking
-
----
-
-### If you want, I can also generate:
-✔ A **GitHub repository description** for your profile  
-✔ A **resume-ready project summary**  
-✔ A **video demo script**  
-✔ A **Project poster / key visuals**
-
-Just tell me which one you want next. 😊
-::contentReference[oaicite:1]{index=1}
