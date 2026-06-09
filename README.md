@@ -72,19 +72,22 @@ createdAt
 ```bash
 git clone https://github.com/hustler0109/Research-Workflow-Manager.git
 cd Research-Workflow-Manager
+```
 2. Install backend dependencies
-bash
+```bash
 cd backend
 npm install
 npm start
+```
 3. Install frontend dependencies
-bash
+```bash
 cd ../frontend
 npm install
 npm run dev
 Open the frontend at http://localhost:5173 or the port shown in your terminal.
+```
 
-📦 Folder Structure
+## 📦 Folder Structure
 
 Research-Workflow-Manager/
 ├── backend/
@@ -100,30 +103,21 @@ Research-Workflow-Manager/
 ├── .gitignore
 ├── README.md
 └── ...
-📈 Analytics and Visualizations
+
+## 📈 Analytics and Visualizations
 Reading Funnel Chart: Shows breakdown of papers across progress stages
 
 Papers Over Time: Line chart tracking additions or progress over time
 
 These charts help visualize research priorities and identify bottlenecks.
 
-🧠 Design Principles
+## 🧠 Design Principles
 Explicit state tracking of paper progress
 
 Analytics-first views for awareness
 
 Clear separation between frontend UI and backend logic
 
-🚀 Future Enhancements
-Persistent database (MongoDB / PostgreSQL)
-
-Authentication & user accounts
-
-Export (CSV / PDF) for analytics
-
-Search & Filters
-
-Tagging & categories
 
 👤 Author
 Shristy Joshi Thakur
